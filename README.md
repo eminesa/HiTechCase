@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 ## Libraries Used
 
 - Navigation Component(https://developer.android.com/guide/navigation/get-started): A navigation graph is a resource file that contains all of the destinations and actions. The graph represents all of our app's navigation paths.
-- Lifecycle(livedata-viewmodel): Briefly describe the library and its purpose.
+- Lifecycle(livedata-viewmodel): The Lifecycle, LiveData, and ViewModel libraries in Android provide a comprehensive set of tools for building lifecycle-aware applications, enabling seamless management of UI components and data updates.
 - Glide (https://github.com/bumptech/glide): Glide is a image loading library
 - Camera for taking avatar photo
 
