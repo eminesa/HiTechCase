@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HiTechCase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="profile_creation">Profile Creation</string>
+    <string name="first_name">First Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="web_site">Web Site</string>
+    <string name="hello">Hello</string>
+    <string name="welcome_text">Your super-awesome portfolio has been successfully submitted! The preview below is what the community will see!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="choose_file">Select file</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="password_regex">8 characters in 1 uppercase and 1 lowercase letter.</string>
+    <string name="mail_regex">Mail is not valid</string>
+    <string name="web_site_regex">Web Site is not valid</string>
+    <string name="first_name_regex">First name must be more than 3 letter</string>
+    <string name="camera_permission">Camera permission denied, please allow permission to take picture.</string>
+</resources>
